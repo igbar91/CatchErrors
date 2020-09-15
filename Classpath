@@ -1,0 +1,6 @@
+
+스프링 예제를 실행하려고 하는데 
+could not load or find main class 가 자꾸떠서 
+찾아보고 Classpath 도 설정해주고 path 환경변수도 바꿔보고 그랬는데 사라지지 않아서
+막막했었는데 
+
